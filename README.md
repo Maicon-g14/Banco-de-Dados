@@ -1,2 +1,5 @@
 # MC536
 Repositorio da disciplina de Banco de Dados
+
+# Aluno
+* `<Maicon Gabriel de Oliveira>`
