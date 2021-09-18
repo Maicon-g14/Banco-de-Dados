@@ -1,4 +1,4 @@
-# Modelo para Apresentação do Lab05 - Marcadores e Taxonomia em Cypher
+# Lab05 - Marcadores e Taxonomia em Cypher
 
 Estrutura de pastas:
 
