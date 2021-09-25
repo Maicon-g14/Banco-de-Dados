@@ -30,11 +30,13 @@ Yang Zhao, Peter Tu, and Ming-Ching Chang. 2019. Occupancy Sensing and Activity 
 
 ## Resumo
 
-> Resumo do artigo com as suas palavras (não deve ser copiado total ou parcialmente o resumo do artigo).
+> Este artigo se trata sobre a criação de um dataset com finalidade de rastrear a localização aproximada de pessoas por meio do WiFi Channel State Information (CSI) e funcionalidades de localização da Camera de smartphones.
 
 ## Perguntas de pesquisa/análises
 
-> Escreva de forma resumida que perguntas de pesquisa/análises podem ser feitas com o dataset.
+> Com quais pessoas alguem infectado com a COVID-19 possivelmente teve contato?
+Como posso comprovar um alibi em caso de suspeitas?
+Reconhecimento de padrões de deslocamento de grupos especificos.
 
 ## Trabalhos relacionados
 
