@@ -1,4 +1,4 @@
-# Banco de Dados - MC536
+# MC536 - Banco de Dados
 Repositorio com laboratórios da disciplina de Banco de Dados
 
 ## Aluno
